@@ -1,7 +1,7 @@
 # suspicious_sand_replace
 minecraft replace suspicious_sand texture
 
-怪しい砂のテクスチャを見やすいものに置き換えます
+怪しげな砂のテクスチャを見やすいものに置き換えます
 
 ![pic](https://raw.githubusercontent.com/iCyP/suspicious_sand_replace/main/pack.png)
 # HOW
